@@ -361,3 +361,71 @@ actually somone is surving in cancer but the report is negative fn
 actually false but it predict true.
 
 
+
+
+sample size above 30 will go for z test if not we will go for t test
+
+
+
+the avg height of village 168 with population std 3.9 . a diatation belived the mean is different , she measured height
+of 36 individual and find 169.5 cm
+1. state null and alternative hypo
+2. add a 95% ci if there enough evidence to reject null hypo
+
+
+
+mean of the population =168
+std=3.9
+n=36
+
+sample mean=169.5
+
+
+1. null hypo h0 avg=168
+
+alternative hypo h1 =/ 168
+
+
+ci=95%
+alpha=1-0.95
+=0.05
+alpha is prob of reject null hypo when it is actual true.
+
+
+0.05/2=0.025
+
+
+
+one tailed test looks for change in only one direction . (ex greater or less)
+
+two tailed test - > checks both tell either greater or less. 
+
+
+1-0.025=0.975
+
+
+
+from the z table we got z score that is 1.96 where the number is 0.975
+
+
+
+xbar -u/sigma/route n
+
+
+169.5-168/3.9/route 36
+
+
+=2.31
+
+2.31>1.96
+
+
+
+
+we will reject the null hypo
+
+
+
+
+
+
